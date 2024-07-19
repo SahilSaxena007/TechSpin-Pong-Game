@@ -6,7 +6,7 @@ I have crafted a captivating single-player GUI game entirely from scratch utiliz
 For the enhancement of the game, I have implemented the game with animations, cheat codes, and a boss key, ensuring seamless gameplay through quality assurance. 
 
 Special Cheats Included
-1. Press <i> to Increase paddle Size.
-2. Press <d> to Decrease the Ball Speed
-3. Press <s> to add a live.
-4. Press <q> and then <c> to see what it does!
+1. Press i to Increase paddle Size.
+2. Press d to Decrease the Ball Speed
+3. Press s to add a live.
+4. Press q and then c to see what it does!
